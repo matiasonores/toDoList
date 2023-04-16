@@ -1,0 +1,10 @@
+C:\Users\Topito\Documents\Proyectos\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\Topito\Documents\Proyectos\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\Topito\Documents\Proyectos\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\Topito\Documents\Proyectos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\Topito\Documents\Proyectos\ToDoList\ToDoList\obj\Debug\ToDoList.toDoList.resources
+C:\Users\Topito\Documents\Proyectos\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\Topito\Documents\Proyectos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\Topito\Documents\Proyectos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Topito\Documents\Proyectos\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\Topito\Documents\Proyectos\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
